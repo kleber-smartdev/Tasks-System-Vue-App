@@ -1,5 +1,5 @@
 # Project Title
-Aplicação web de Tasks Figma, Vue.js, HTML5, CSS3, Bootstrap e localStorage como banco de dados.
+Aplicação web de Tasks realizado com Figma, Vue.js, HTML5, CSS3, Bootstrap e localStorage como banco de dados.
 
 ## Description
 Este projeto foi solicitado como prova de conhecimento técnico como parte de um processo de seletivo.
@@ -11,7 +11,7 @@ O processo seletivo foi pra vaga de Frontend Developer com sólidos fundamentos 
 
 * Clone comando para pegar o projeto
 ```
-git clone link: 
+git clone https://github.com/kleber-smartdev/tasks-vuejs.git
 ```
 
 * Projeto Deployed link:
