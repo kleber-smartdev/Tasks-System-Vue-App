@@ -1,4 +1,4 @@
-# Project Title
+# Task System Project in Vue.js & Bootstrap
 Aplicação web de Tasks realizado com Figma, Vue.js, HTML5, CSS3, Bootstrap e localStorage como banco de dados.
 
 ## Description
