@@ -71,7 +71,9 @@ npm run serve
 ```
 
 Se tudo correr como esperado, o site test do Vue deste estar ativo:
-  - Acesso Local: http://localhost:8080/ ou seu IP local na porta 8080, você deverá visualizar uma página do Vue.js
+  - Acesso Local: http://localhost:8080/ ou seu IP local na porta 8080, você deverá visualizar esta página do Vue.js
+
+<img src="https://kleberux.com/projects/task-system-vuejs/vuejs-image.jpg">
 
 * Após este serviço estar rodando corretamente você poderá substituir todos os arquivos na pasta "public" e na pasta "src" pelo meus arquivos que estaão neste commit, que o serviço deve rodar normalmente.
 
