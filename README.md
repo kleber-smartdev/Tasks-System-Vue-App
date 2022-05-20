@@ -76,6 +76,8 @@ Se tudo correr como esperado, o site test do Vue deste estar ativo:
 <img src="https://kleberux.com/projects/task-system-vuejs/vuejs-image.jpg">
 
 * Após este serviço estar rodando corretamente você poderá substituir todos os arquivos na pasta "public" e na pasta "src" pelo meus arquivos que estaão neste commit, que o serviço deve rodar normalmente.
+* 
+<img src="https://kleberux.com/projects/task-system-vuejs/folders-image.jpg">
 
 
 ## Help
