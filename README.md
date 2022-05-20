@@ -24,13 +24,16 @@ git clone https://github.com/kleber-smartdev/tasks-vuejs.git
 ### Dependencies
 * O projeto pode ser compilado em macOS, Linux ou Windows.
 * Recomendo a atulização do VsCode como editor e compilador, todavida este não é requerimento.
-* Recomendo a instalacão do Node.js localmente. Todavia o sistema pode ser através de CDNs' links.
+* Recomendo a instalacão do Node.js localmente. Todavia o sistema pode ser executado através de CDNs' links.
 
 ### Installing
 * Abrindo o Terminal no macOS e Linux ou Powersheel no modo Admnistrativo no Windows. Vamos verificar se existe a instalação do Node.js (Minha versão hoje é a v16.15.0)
 ```
 node -v
 ```
+
+* Pra instalar o Node.js faça o download através do Link https://nodejs.org/en/download/ 
+
 
 * Com o node instalado, vamos prossegui na instalacão no Vue.js (Impotante o -g significa global e no macOS e Linux precisará usar o commando sudo na frente e colocar a senha)
 ```
