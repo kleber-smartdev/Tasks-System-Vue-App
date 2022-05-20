@@ -40,16 +40,16 @@ node -v
 npm install -g @vue/cli
 ```
 
-* Após instalado o Vue.js vamos seguir para a criação do ambiente do seu App. Selecione um diretório onde será armazenado o App e abra esta pasta no Terminal\Powershell e digite o comando a seguir.
+* Após instalado o Vue.js vamos seguir para a criação do ambiente do seu App. Selecione um diretório onde será armazenado o App e abra esta pasta via Terminal\Powershell e digite o comando a seguir.
 ```
 vue create .
 ```
 
 * Este processo vai preparar o ambiente. Recomendo seguir na opcão Manual. Selecione apenas o "Babel" e o "Router" (Enter)
-* Selecione a versão do Vue.js (Utilizei a versão 3.X) (Enter)
-* Diga Sim para usar o "History mode for router" (Y) (Enter)
-* Responda que deseja salvar as informações no arquivo "package.json"
-* Responda Não para a pergunta se deseja salvar as configurações para projetos futuros.
+* Selecione a "Versão" do Vue.js (Utilizei a versão 3.X) (Enter)
+* Diga "Sim" para usar o "History mode for router" (Y) (Enter)
+* Responda que deseja "Salvar" as informações no arquivo "package.json"
+* Responda "Não" para a pergunta se deseja salvar as configurações para projetos futuros.
 
 * Após instalação do Vue.js faça a instalação do "Bootstrap" Vue e do "Sass Loader"
 ```
@@ -60,11 +60,11 @@ npm install sass-loader sass webpack --save-dev
 ```
 
 ### Executing program
-* Se você estiver usando o VsCode abra o diretório com o Terminal\Powershell e digite:
+* Se você estiver usando o VsCode abra o diretório do App com o Terminal\Powershell e digite o comando:
 ```
 code .
 ````
-Este comando deve abri seu diretório do projeto. Esteja usando outro editor abra seu diretório no mesmo.
+Este comando deve abrir seu projeto no VsCode. Caso esteja usando outro editor abra seu diretório no editor de sua preferência.
 Com o projeto aberto utilize o Terminal\Powershell e execute o servidor localhost com o comando:
 ```
 npm run serve
