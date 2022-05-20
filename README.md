@@ -88,21 +88,20 @@ Kleber Smartdev
 OpenSource
 
 ## Acknowledgments and Next Steps
-Foi bem agradável o desenvovimento deste simples projeto,, foi um bom momento de apredidizado. Espero criar mais projeto.
+Foi bem agradável o desenvovimento deste simples projeto, foi um bom momento de apredidizado. Espero criar mais projetos.
 
-Neste projeto eu gostaria de ter implementado as seguintes funcionalidades:
-* Validação de dados (Para evitar registros vazios e injection de códigos maliciosos)
-* Toast com informações de gravação e atualização com sucesso e mensagens de erro de gravação
-* Paginação para lista de registros
-* Banco de dados ou Utilização de API
-* Mensagem de não tem Tasks quando estiver vazio
+* Neste projeto eu gostaria de ter implementado as seguintes funcionalidades:
+- Validação de dados (Para evitar registros vazios e injection de códigos maliciosos)
+- Toast com informações de gravação e atualização com sucesso e mensagens de erro de gravação
+- Paginação para lista de registros
+- Banco de dados ou Utilização de API
+- Mensagem de não tem Tasks quando estiver vazio
 
 
-Inspiration, code snippets, etc.
-* [Vue.js Doc](https://vuejs.org/guide/introduction.html)
-* [Bootstrap Vue Doc](https://bootstrap-vue.org/docs)
-* [CodePen](https://codepen.io/)
-* [Dribble](https://dribbble.com/)
-* [GitHub](https://github.com/)# task-system-vuejs
-# tasks-vuejs
+* Inspiration, code snippets, etc.
+- [Vue.js Doc](https://vuejs.org/guide/introduction.html)
+- [Bootstrap Vue Doc](https://bootstrap-vue.org/docs)
+- [CodePen](https://codepen.io/)
+- [Dribble](https://dribbble.com/)
+- [GitHub](https://github.com/)
 # tasks-vuejs
