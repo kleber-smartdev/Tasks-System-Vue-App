@@ -1,0 +1,39 @@
+/* footer.css */
+.hr-footer-top {
+    background-color: var(--custom-hoverlink);
+    height: 25px;
+}
+
+.footer-bg {
+    background-color: var(--custom-white);
+}
+
+footer {
+    background-color: var(--custom-white);
+    font-size: 0.75rem;
+    
+}
+
+.footer-icons {
+    height: 35px;
+    filter:opacity(0.55);
+}
+
+.footer-icons:hover {
+    filter:opacity(1);
+    cursor: pointer;
+}
+
+.custom-footer {
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 990px) {
+    .custom-footer {
+      flex-direction: column;
+      align-items:flex-start;
+      padding: 0px;
+    }
+}

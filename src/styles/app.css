@@ -1,0 +1,45 @@
+/* app.css */
+/* Overwrinting as regras do Bootstrap para o app */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    --custom-light: #ccc;
+    --custom-dark: #222;
+    --custom-white: #f4f4f4;
+    --custom-link: #333;
+    --custom-hoverlink: #537253;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--custom-light);
+    color: var(--custom-dark);
+}
+
+body {
+    background-color: var(--custom-light);
+    color: var(--custom-dark);  
+}
+
+body a:nth-child(n) {
+    text-decoration: none;
+    color: var(--custom-link);
+}
+
+body a:nth-child(n):hover {
+    text-decoration: none;
+    color: var(--custom-hoverlink);
+}
+
+.container {
+    background-color: var(--custom-white);
+    margin: 0 auto;
+    padding: 20px;
+}

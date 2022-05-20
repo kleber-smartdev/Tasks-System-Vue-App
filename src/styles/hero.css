@@ -1,0 +1,57 @@
+/* hero.css */
+.hero {
+    background-image: url(/src/assets/tasks_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-wrap {
+    line-height: 1.5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+}
+
+.hero-overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+.hero-cta {
+    width: 70%;
+    color: var(--custom-white);
+}
+
+.hero-box {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.65);
+    background-color: var(--custom-white);
+    padding: 15px 35px;
+}
+
+div.hero-box:hover h3, div.hero-box:hover p, div.hero-box:hover {
+    border-radius: 10px;
+    background-color: var(--custom-hoverlink);
+    color: var(--custom-white);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 990px) {
+    .hero-wrap {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .hero-cta {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .hero-box {
+        width: 100%;
+    }
+
+}
