@@ -70,14 +70,14 @@ Com o projeto aberto utilize o Terminal\Powershell e execute o servidor localhos
 npm run serve
 ```
 
-Se tudo correr como esperado ao acessar o endereço:
-  - Local:   http://localhost:8080/ ou seu IP local na porta 8080, você deverá visualizar uma página do Vue.js
+Se tudo correr como esperado, o site test do Vue deste estar ativo:
+  - Acesso Local: http://localhost:8080/ ou seu IP local na porta 8080, você deverá visualizar uma página do Vue.js
 
-* Após este serviço estar rodando corretamente você poderá substituir todos os arquivos na pasta "public" e na pasta "src" pelo meus arquivos que o serviço deve rodar normalmente.
+* Após este serviço estar rodando corretamente você poderá substituir todos os arquivos na pasta "public" e na pasta "src" pelo meus arquivos que estaão neste commit, que o serviço deve rodar normalmente.
 
 
 ## Help
-No caso de dificuldade em configurar o ambiente eu hospedei a aplicação para sua uma demo em tempo real neste endereço.
+No caso de dificuldade em configurar o ambiente eu vou hospedar a aplicação para uma demo em tempo real neste link.
 No caso de qualquer questão não hesite em entrar em contato comigo.
 
 ## Authors
