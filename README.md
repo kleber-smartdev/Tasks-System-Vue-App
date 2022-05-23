@@ -90,7 +90,7 @@ Segue um tutorial passo a passo: https://medium.com/@rachidsakara/how-to-deploy-
 ```
 npm run build
 ```
-````
+```
 firebase login
 ```
 ```
