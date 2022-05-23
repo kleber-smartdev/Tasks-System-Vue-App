@@ -85,6 +85,18 @@ Se tudo correr como esperado, o site test do Vue deste estar ativo:
 No caso de dificuldade em configurar o ambiente eu vou hospedar a aplicação para uma demo em tempo real neste link.
 No caso de qualquer questão não hesite em entrar em contato comigo.
 
+No caso de dificuldade em fazer o Deploy do projeto (Deixar live), recomendo fazer deploy usando Firebase do Google que é gratuito para até 10Gb de dados transferidos por mês e com basicamente 3 comandos as suas alteracões já estarão no ar.
+Segue um tutorial passo a passo: https://medium.com/@rachidsakara/how-to-deploy-vue-js-applications-with-firebase-hosting-40cfa7f724e4
+```
+npm run build
+```
+````
+firebase login
+```
+```
+firebase deploy
+```
+
 ## Authors
 Kleber Smartdev
 
