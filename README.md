@@ -16,7 +16,8 @@ git clone https://github.com/kleber-smartdev/tasks-vuejs.git
 ```
 
 - [Live Demo on Google Firebase] ( https://tasksys-vuejs-4be4f.firebaseapp.com/ )
-
+- [Dribble](https://dribbble.com/)
+- [GitHub](https://github.com/)
 
 
 ## Getting Started
