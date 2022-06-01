@@ -8,7 +8,7 @@ O processo seletivo foi pra vaga de Frontend Developer com sólidos fundamentos 
 * Desenvolvimento do Protótipo usando Figma, HTML5, CSS3, Vue.js e Bootstrap
 
 * Skecth e Protótipo no Figma
-- [Meu Protótipo no Figma](https://www.figma.com/proto/XiVAEk913g8n6CNkMNymNS/Vue-JS--Task-Project-B4B?node-id=2%3A67&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A60)
+- [Figma Live Demo](https://www.figma.com/proto/XiVAEk913g8n6CNkMNymNS/Vue-JS--Task-Project-B4B?node-id=2%3A67&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A60)
 
 * Clone comando para pegar o projeto
 ```
