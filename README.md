@@ -121,3 +121,9 @@ Foi bem agradável o desenvovimento deste simples projeto, foi um bom momento de
 - [Dribble](https://dribbble.com/)
 - [GitHub](https://github.com/)
 # tasks-vuejs
+
+Contribute, Fork it, Share it!
+<br>
+https://kleberux.com/
+<br>
+😉🚀
