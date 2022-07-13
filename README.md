@@ -120,10 +120,9 @@ Foi bem agradável o desenvovimento deste simples projeto, foi um bom momento de
 - [CodePen](https://codepen.io/)
 - [Dribble](https://dribbble.com/)
 - [GitHub](https://github.com/)
-# tasks-vuejs
 
-Contribute, Fork it, Share it!
-<br>
+
+# Contribute, Fork it, Share it!
 https://kleberux.com/
 <br>
 😉🚀
