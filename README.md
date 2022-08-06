@@ -15,7 +15,7 @@ O processo seletivo foi pra vaga de Frontend Developer com sólidos fundamentos 
 git clone https://github.com/kleber-smartdev/tasks-vuejs.git
 ```
 
-### Deployed on Google Firebase
+### Deployed no Google Firebase
 - [Live Demo](https://tasksys-vuejs-4be4f.firebaseapp.com/)
 
 
