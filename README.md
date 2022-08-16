@@ -18,6 +18,8 @@ git clone https://github.com/kleber-smartdev/tasks-vuejs.git
 ### Deployed no Google Firebase
 - [Live Demo](https://tasksys-vuejs-4be4f.firebaseapp.com/)
 
+### Deployed na Vercel
+- [Live Demo](https://tasks-system-vue-app.vercel.app/)
 
 ## Getting Started
 
