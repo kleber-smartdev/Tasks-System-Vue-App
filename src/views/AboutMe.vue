@@ -9,9 +9,9 @@
 
                   <p>I have been working in the digital industry for more than a decade. In 2009, I started to work with multicultural teams across the globe.</p>
 
-                  <p>In 2013 I had a short business program in Toronto. When I returned to Sao Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. In 2016 I moved to Vancouver, BC, Canada, where I have been developing my skills.</p>
+                  <p>In 2013, I had a short business program in Toronto. When I returned to Sao Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. In 2016 I moved to Vancouver, BC, Canada, where I have been developing my skills.</p>
 
-                  <p>In 2022 I finished the User Experience (UX) Bootcamp Program at BrainStation, where I learned more solid foundations of
+                  <p>In 2022, I finished the User Experience (UX) Bootcamp Program at BrainStation, where I learned more solid foundations of
                   “The Design of Everyday Thing.”</p>
               </div>
               <div>
