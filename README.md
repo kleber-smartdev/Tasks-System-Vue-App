@@ -126,6 +126,4 @@ Foi bem agradável o desenvovimento deste simples projeto, foi um bom momento de
 
 
 ### Contribute, Fork it, Share it!
-https://kleberux.com/
-<br>
 😉🚀
